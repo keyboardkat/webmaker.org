@@ -11,6 +11,10 @@
         ]
       },
       {
+            "type": "youtube",
+            "content": "BrXPcaRlBqo"
+      },
+      {
         "title": "Tips and tricks",
         "links": [
           "<strong><a href=\"https://support.mozilla.org/en-US/products/firefox/get-started/tips\">Level up your browser skills</a> </strong>with these tips and tricks for Firefox. Keyboard and mouse shortcuts, automating common searches, organizing tabs and more. (Here&rsquo;s similar tips for <a href=\"https://www.google.com/intl/en/chrome/browser/signin.html\">Chrome</a>, <a href=\"http://windows.microsoft.com/en-ca/internet-explorer/products/ie-9/tips\">Internet Explorer</a>, <a href=\"http://support.apple.com/kb/ht5364\">Safari</a> and<a href=\"http://fedoraproject.org/en/get-help\"> Fedora</a>.)"
@@ -1257,10 +1261,14 @@
       {
         "title": "See who&rsquo;s tracking you online",
         "links": [
-          "Watch the video. As you surf the Web, information is being collected about you. This <a href=\"http://www.ted.com/talks/gary_kovacs_tracking_the_trackers\">&ldquo;Tracking the Trackers&rdquo; TED Talk video</a> explains how.",
-          "Try it for yourself. <a href=\"http://www.mozilla.org/en-US/lightbeam/\">Install the Lightbeam add-on</a> to see for yourself. Shine a light on who&rsquo;s watching your online activities."
+          "Watch the video below. As you surf the Web, information is being collected about you. This <a href=\"http://www.ted.com/talks/gary_kovacs_tracking_the_trackers\">&ldquo;Tracking the Trackers&rdquo; TED Talk video</a> explains how.",
+          "Then try it for yourself. <a href=\"http://www.mozilla.org/en-US/lightbeam/\">Install the Lightbeam add-on</a> to see for yourself. Shine a light on who&rsquo;s watching your online activities."
         ]
       },
+          {
+            "type": "youtube",
+            "content": "f_f5wNw-2c0"
+          },
       {
         "title": "Tell sites you don&rsquo;t want to be tracked",
         "links": [
