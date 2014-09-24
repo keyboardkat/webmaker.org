@@ -356,6 +356,14 @@
         ]
       },
       {
+        "type": "image",
+        "content": {
+          "src": "https://stuff.webmaker.org/teach-assets/kat/droids.jpg",
+          "alt": "Who are the droids we're looking for?",
+          "caption":"Photo thanks to Flickr user <a href=\"https://www.flickr.com/photos/st3f4n/3951143570/\">Stefan</a>."
+        }
+      },
+      {
         "title": "Have you explored search engines other than Google?",
         "multimedia": [
           {
@@ -399,6 +407,13 @@
     ],
     "teach": {
       "kits": [
+        {
+          "title": "Kraken the code activity",
+          "description": "Learn about search terms while finding out the mystery of the Kraken.",
+          "url": "https://katermouse.makes.org/thimble/LTc4OTExODk3Ng==/kraken-the-code-activity",
+          "author": "MOUSE",
+          "type": "kit"
+        },        
         {
           "title": "Image seeking for fantastic visual metaphors",
           "description": "Lead learners through the process of finding reusable images to represent concepts and ideas.",
